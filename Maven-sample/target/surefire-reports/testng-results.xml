@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="KNRiskAutomationTest" duration-ms="33443" started-at="2017-12-11T09:59:30Z" finished-at="2017-12-11T10:00:04Z">
+    <groups>
+    </groups>
+    <test name="KNRiskTestNGTest" duration-ms="33443" started-at="2017-12-11T09:59:30Z" finished-at="2017-12-11T10:00:04Z">
+      <class name="kn.risk.pages.Test1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb]" name="beforeSuite" is-config="true" duration-ms="333" started-at="2017-12-11T04:59:30Z" finished-at="2017-12-11T04:59:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb]" name="beforeClass" is-config="true" duration-ms="8786" started-at="2017-12-11T04:59:30Z" finished-at="2017-12-11T04:59:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb]" name="test1" duration-ms="927" started-at="2017-12-11T04:59:39Z" finished-at="2017-12-11T04:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb]" name="getResult" is-config="true" duration-ms="2" started-at="2017-12-11T04:59:40Z" finished-at="2017-12-11T04:59:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=Test1.test1()[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb]" name="test2" duration-ms="14041" started-at="2017-12-11T04:59:40Z" finished-at="2017-12-11T04:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb]" name="test3" duration-ms="8627" started-at="2017-12-11T04:59:54Z" finished-at="2017-12-11T05:00:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb]" name="getResult" is-config="true" duration-ms="0" started-at="2017-12-11T04:59:54Z" finished-at="2017-12-11T04:59:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=Test1.test2()[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb]" name="getResult" is-config="true" duration-ms="1" started-at="2017-12-11T05:00:03Z" finished-at="2017-12-11T05:00:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test3 status=SUCCESS method=Test1.test3()[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb]" name="afterClass" is-config="true" duration-ms="533" started-at="2017-12-11T05:00:03Z" finished-at="2017-12-11T05:00:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:kn.risk.pages.Test1@3f0ee7cb]" name="endReport" is-config="true" duration-ms="496" started-at="2017-12-11T05:00:03Z" finished-at="2017-12-11T05:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- kn.risk.pages.Test1 -->
+    </test> <!-- KNRiskTestNGTest -->
+  </suite> <!-- KNRiskAutomationTest -->
+</testng-results>
